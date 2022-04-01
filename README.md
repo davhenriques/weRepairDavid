@@ -1,3 +1,15 @@
+I included all the nodemodules for an easier first run
+
+
+
+to start project just open main directory "./weRepair" and run npm start
+
+So post/get request work accordingly the RestApi should be running on localhost:3001
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
